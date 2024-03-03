@@ -1,3 +1,5 @@
+The `/dist` folder is added to the repo for vercel deployment.
+
 ## Run the server
 
 1.  Create a `.env` file in the root folder
